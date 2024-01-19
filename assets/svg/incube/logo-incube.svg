@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 40">
+
+	<defs>
+		<style>
+			.icon-svg--white {
+				fill: #ffffff;
+				fill-rule: evenodd;
+			}
+		</style>
+	</defs>
+
+	<polygon class="icon-svg--white" points="12.315,9.026 22.927,17.288 25.032,32.772 27.146,17.283 37.756,9.036 25.063,14.285 25.063,14.287"/>
+
+	<path class="icon-svg--white" d="M41.61,6.107L25.033,0.727l-0.619,0.202L8.486,6.098L7.821,6.312l3.501,19.866l13.688,11.896 l0.02,0.023l13.714-11.92l3.501-19.866L41.61,6.107z M25.032,4.068l13.597,4.413l-2.826,16.033l-10.77,9.361l-10.77-9.361 L11.438,8.481L25.032,4.068z"/>
+
+</svg>
